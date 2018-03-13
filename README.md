@@ -1,2 +1,3 @@
 # hello-world
-hello world starter repository
+
+My name is Anthony I`m 22 years old, student programmer.
